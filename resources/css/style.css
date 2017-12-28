@@ -9,7 +9,7 @@ body {
 
 .nav {
   font-size: 18px;
-  color: white;
+  color: white !important;
 }
 
 h1 {
